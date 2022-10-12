@@ -10,14 +10,14 @@
 1.exceptions i handler exceptions
 2.zrobienie pelnego Crud-a ????
 
-## UI
+# UI
 
-# Inspiracje wyglądu apki
+## Inspiracje wyglądu apki
 
 LoginActivity:
 ![pinterest-login-design](images/pinterest_login.png)
 
-# Tutoriale
+## Tutoriale
 
 dekoracja tekstu - https://blog.mindorks.com/android-textview-decoration-tutorial
 
