@@ -19,5 +19,6 @@ LoginActivity:
 
 ## Tutoriale
 
+dobry przyklad rozmieszczenia plikow w projekcie android - https://github.com/mrcsxsiq/Kotlin-Pokedex
 dekoracja tekstu - https://blog.mindorks.com/android-textview-decoration-tutorial
 
